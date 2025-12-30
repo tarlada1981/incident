@@ -1,0 +1,104 @@
+[PROFILE]
+Full Name: Kiran Kumar Tarlada. 
+Name Meaning: Kiran means Sun in Telugu; Kumar is a traditional South Indian middle name. 
+Surname: Tarlada. 
+Date of Birth: October 6, 1982. 
+Nationality: Indian. 
+Marital Status: Married with one child. 
+Heritage: Asian, Hindu. 
+Religion: Hindu. 
+Ethnicity: Asian. 
+Zodiac Sign: Virgo. 
+Family Structure: Only child. 
+Home City: Hyderabad (Adibatla). 
+Hometown: Srikakulam, Andhra Pradesh, India. 
+Years Lived in Hometown: 18 years before moving for Master's degree. 
+Tradition: Celebrates Pongal in ancestral village. 
+
+[EDUCATION & CERTIFICATIONS]
+Highest Degree: Master of Computer Applications (MCA). 
+University: Andhra University, Vishakhapatnam. 
+Year of Completion: 2015. 
+Education Locations: Eluru, West Godavari and Vishakhapatnam. 
+Favorite Subject: Mathematics. 
+Certification: AWS Certified Solutions Architect - Associate (Feb 2025). 
+Certification: MCSA Cloud Platform Microsoft Certified Solutions Associate (Oct 2017). 
+Certification: IBM Certified Specialist - Storwize V7000 Technical Solutions (Sept 2016). 
+Certification: ITIL Foundation – IT Service Management (April 2015). 
+
+[EXPERIENCE: OVERVIEW]
+Total Experience: Results-driven Cloud Engineer with 20+ years of IT experience. 
+Current Role: Consultant at TATA Consultancy Services (since March 2018). 
+Previous Role: Technology Lead at Infosys Technologies Limited (July 2011 – Mar 2018). 
+Previous Role: Infrastructure Engineer at HSBC India Pvt Ltd (Mar 2009 – Jul 2011). 
+First Job: Associate Engineer at CSC India Pvt Ltd in Noida (Jul 2006 – Mar 2009). 
+Expertise Areas: Linux Systems Administration, Multi-Cloud Architecture, CI/CD, and IaC. 
+
+[ROLE: SOLUTION ARCHITECT]
+Primary Role: Cloud & Infrastructure Architect and Senior DevOps Engineer. 
+Cloud Platforms: Expert across AWS, GCP, Azure, and OpenStack. 
+Responsibility: Aligned cloud strategy with business goals and security standards. 
+Responsibility: Standardized infrastructure deployments using Infrastructure as Code (IaC). 
+Responsibility: Evaluated technical challenges in networking, compute, and storage. 
+
+[SKILLS: CLOUD SERVICES]
+AWS Skills: EC2, S3, EBS, VPC, ELB, AMI, RDS, SNS, Auto Scaling, Route 53. 
+AWS Skills: CloudFront, CloudWatch, CloudTrail, CloudFormation, OpsWorks, Lambda, SQS. 
+AWS Skills: AWS Transfer Family (SFTP), IAM, Beanstalk, Import/Export (Snowball). 
+Azure Skills: VNET, Storage Accounts, Public IPs, Azure Site Recovery, Azure AD Connect. 
+GCP Skills: Custom VPC, VPN, Subnets, and Stackdriver monitoring. 
+OpenStack Skills: Proficient in Nova, Neutron, Cinder, Swift, Horizon, Keystone, Designate. 
+
+[SKILLS: DEVOPS & AUTOMATION]
+Infrastructure as Code: Terraform (Cloud/Enterprise), CloudFormation, Ansible. 
+Containers: Kubernetes (k8s), Docker, OpenShift, ECS. 
+Orchestration: Helm charts, Docker-Compose, Docker Swarm, Kubernetes manifests. 
+CI/CD Tools: Jenkins (Master/Slave), Maven, Gradle, TeamCity, Azure DevOps, Bamboo. 
+Configuration Management: Chef (Cookbooks/LWRP), Puppet (Manifests), Ansible Tower. 
+Version Control: Git, GitHub, Bitbucket, SVN (Tortoise). 
+
+[SKILLS: PROGRAMMING & OBSERVABILITY]
+Programming Languages: Python, Powershell, Bash, VBscript, VBA. 
+Scripting: Shell, Bash, Perl, Ruby, PowerShell, JSON, YAML. 
+Monitoring/Logging: Splunk, ELK Stack (Elasticsearch, Logstash, Kibana), Nagios, Orion. 
+Cloud Monitoring: Prometheus, Grafana, AWS CloudWatch, X-Ray, OpenTelemetry. 
+
+[PROJECT: DISASTER RECOVERY]
+Scope: Led 2-year DR initiative for 200+ enterprise applications. 
+Outcome: Transitioned legacy on-prem models to cloud-native Azure Site Recovery (ASR). 
+Technical Detail: Mapped VMware vSphere hosts and SAN storage to Azure targets. 
+Technical Detail: Automated failover sequencing (DB > App > Web) using Azure Runbooks. 
+Technical Detail: Synchronized AD on-prem passwords with Azure using Ping Federate. 
+Compliance: Met audit standards for encryption at rest (SSE) and transit (TLS 1.2). 
+
+[PROJECT: SRE & RELIABILITY]
+Platform: High-availability AWS platform for Blue Yonder (RedPrairie) WMS. 
+Metrics: Achieved 99.9%+ availability and reduced MTTR by over 70%. 
+Automation: Built self-healing infrastructure using Lambda, EventBridge, and Systems Manager. 
+Governance: Established error-budget reliability governance using CloudWatch SLOs. 
+
+[PROJECT: DATA CENTER & INFRASTRUCTURE]
+Management: Overseeing servers, networking, and storage lifecycle. 
+Transformation: Led transformation of ~800 physical and virtual assets. 
+Cost Savings: Deployed Windows 2012 Deduplication reducing storage space by 50%. 
+Security: Ensured compliance with HIPAA, GDPR, and SOC2 regulations. 
+
+[PERSONALITY & VALUES]
+Personality Type: Introvert. 
+Strengths: Logical thinking, Coding, Argument/Debate and Reasoning. 
+Motivation: Driven by competition. 
+Pet Peeve: Over-action. 
+Life Motto: Don’t bother what others think. 
+Proudest Moment: Receiving an automation award and purchasing his first house. 
+Success Definition: Happiness for himself and his closed ones. 
+Hardest Lesson: Learning not to trust people blindly. 
+
+[DREAMS & FUTURE]
+Career Goal: Master Artificial Intelligence (AI) within 12 months. 
+Personal Dream: Screenwriting for films. 
+Travel Goal: Dying to visit Switzerland. 
+Language Goal: Master the French language. 
+Retirement Vision: A worry-free life at age 70. 
+First Lottery Purchase: All the tech in the world. 
+Historical Dinner: Steve Jobs or Chiranjeevi. 
+Bucket List: Learn how to bake a cake.
