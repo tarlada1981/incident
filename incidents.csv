@@ -1,0 +1,89 @@
+﻿ServerName,Description,Duration,OpenDate,ClosedDate
+SRV-WEB01,"ESXi host down, unable to boot VMs",45h,12/1/2025 10:15,12/3/2025 7:20
+SRV-DB02,"Network issue, intermittent connectivity",12h,12/2/2025 14:30,12/2/2025 2:45
+SRV-APP03,Power issue,2d,12/3/2025 9:00,12/5/2025 11:30
+SRV-WEB01,User rebooted server without approval,3h,12/4/2025 16:20,12/4/2025 19:25
+SRV-FILE04,Maintenance window for OS patching,8h,12/5/2025 22:00,12/6/2025 6:00
+SRV-DB02,ESXi down after failed update,28h,12/6/2025 11:45,12/7/2025 15:50
+SRV-MAIL05,Network issue,6h,12/7/2025 13:10,12/7/2025 19:15
+SRV-APP03,Power issue,1d,12/8/2025 2:30,12/9/2025 8:45
+SRV-BACKUP06,User rebooted during peak hours,4h,12/9/2025 17:00,12/9/2025 21:10
+SRV-WEB01,Maintenance for hardware upgrade,10h,12/10/2025 20:00,12/11/2025 6:15
+SRV-DB07,ESXi host unresponsive,52h,12/11/2025 8:40,12/13/2025 12:35
+SRV-APP03,Network congestion issue,9h,12/12/2025 15:25,12/13/2025 0:30
+SRV-FILE04,Power cycle required,2h,12/13/2025 10:50,12/13/2025 12:55
+SRV-MAIL05,User accidentally rebooted,5h,12/14/2025 14:00,12/14/2025 19:05
+SRV-BACKUP06,Scheduled maintenance,12h,12/15/2025 1:30,12/15/2025 13:35
+SRV-WEB01,"ESXi down, storage disconnect",36h,12/16/2025 7:20,12/17/2025 19:25
+SRV-DB02,Network cable fault,3h,12/17/2025 12:45,12/17/2025 15:50
+SRV-APP08,Power supply overheating,24h,12/18/2025 9:15,12/19/2025 9:20
+SRV-FILE04,User rebooted for updates,7h,12/19/2025 18:30,12/20/2025 1:35
+SRV-MAIL05,Maintenance patching cycle,6h,12/20/2025 23:00,12/21/2025 5:05
+SRV-BACKUP06,ESXi host crash,18h,12/21/2025 11:10,12/22/2025 5:15
+SRV-DB07,Network latency spike,11h,12/22/2025 16:40,12/23/2025 3:50
+SRV-APP03,Power outage in rack,4d,12/23/2025 2:00,12/27/2025 10:05
+SRV-WEB09,User unauthorized reboot,2h,12/24/2025 13:25,12/24/2025 15:30
+SRV-FILE04,Planned maintenance,14h,12/25/2025 0:45,12/25/2025 14:50
+SRV-MAIL05,"ESXi down, memory error",41h,12/26/2025 6:30,12/27/2025 23:35
+SRV-BACKUP06,Network interface failure,8h,12/27/2025 15:55,12/28/2025 0:00
+SRV-DB02,Power button pressed accidentally,1h,12/28/2025 9:20,12/28/2025 10:25
+SRV-APP08,User rebooted VM host,9h,12/28/2025 17:40,12/29/2025 2:45
+SRV-WEB01,Maintenance for firmware update,16h,12/29/2025 22:15,12/30/2025 14:20
+SRV-DB07,ESXi unresponsive after patch,33h,12/30/2025 4:10,12/31/2025 13:15
+SRV-APP03,Network switch reboot needed,5h,11/28/2025 12:35,11/28/2025 17:40
+SRV-FILE10,Power issue PDU overload,22h,11/29/2025 8:50,11/30/2025 6:55
+SRV-MAIL05,User planned reboot,3h,11/30/2025 14:05,11/30/2025 17:10
+SRV-BACKUP06,Scheduled maintenance,7h,12/1/2025 1:25,12/1/2025 8:30
+SRV-WEB09,ESXi down hardware fault,48h,12/1/2025 10:40,12/3/2025 10:45
+SRV-DB02,Network VLAN misconfig,13h,12/2/2025 16:15,12/3/2025 5:20
+SRV-APP08,Power failure rack 3,29h,12/3/2025 11:30,12/4/2025 16:35
+SRV-FILE04,User rebooted unexpectedly,4h,12/4/2025 19:45,12/4/2025 23:50
+SRV-MAIL05,Maintenance OS upgrade,20h,12/5/2025 2:00,12/5/2025 22:05
+SRV-DB07,ESXi host panic,15h,12/6/2025 7:20,12/6/2025 22:25
+SRV-APP03,Network fiber cut,6h,12/7/2025 13:50,12/7/2025 19:55
+SRV-WEB01,Power surge damage,2d,12/8/2025 5:10,12/10/2025 9:15
+SRV-FILE10,User maintenance reboot,5h,12/9/2025 15:30,12/9/2025 20:35
+SRV-BACKUP06,Planned downtime,11h,12/10/2025 23:45,12/11/2025 10:50
+SRV-MAIL05,ESXi down NIC failure,37h,12/11/2025 12:05,12/13/2025 1:10
+SRV-DB02,Network DDoS mitigation,8h,12/12/2025 18:20,12/13/2025 2:25
+SRV-APP08,Power PSU replacement,3h,12/13/2025 9:40,12/13/2025 12:45
+SRV-WEB09,User rebooted cluster node,10h,12/14/2025 16:00,12/15/2025 2:05
+SRV-FILE04,Maintenance backup config,14h,12/15/2025 4:15,12/15/2025 18:20
+SRV-DB07,ESXi crash kernel panic,26h,12/16/2025 10:35,12/17/2025 12:40
+SRV-APP03,Network config change,7h,12/17/2025 14:50,12/17/2025 21:55
+SRV-BACKUP06,Power issue cooling fan,19h,12/18/2025 3:10,12/18/2025 22:15
+SRV-MAIL05,User accidental shutdown,2h,12/19/2025 11:25,12/19/2025 13:30
+SRV-WEB01,Scheduled maintenance,9h,12/20/2025 20:45,12/21/2025 5:50
+SRV-FILE10,ESXi down storage array,44h,12/21/2025 7:00,12/23/2025 3:05
+SRV-DB02,Network port security lock,12h,12/22/2025 13:20,12/22/2025 1:25
+SRV-APP08,Power circuit breaker trip,1d,12/23/2025 8:40,12/24/2025 10:45
+SRV-MAIL05,User rebooted for perf tune,6h,12/24/2025 16:55,12/24/2025 23:00
+SRV-BACKUP06,Maintenance firmware flash,17h,12/25/2025 2:15,12/25/2025 19:20
+SRV-WEB09,ESXi host overload,31h,12/26/2025 5:30,12/27/2025 12:35
+SRV-FILE04,Network BGP flap,4h,12/27/2025 14:50,12/27/2025 18:55
+SRV-DB07,Power redundant PSU fail,23h,12/28/2025 1:10,12/28/2025 0:15
+SRV-APP03,User unauthorized power off,3h,12/28/2025 9:25,12/28/2025 12:30
+SRV-MAIL05,Planned maintenance,13h,12/29/2025 17:40,12/30/2025 6:45
+SRV-BACKUP11,ESXi down after migration,39h,12/30/2025 8:05,12/31/2025 23:10
+SRV-WEB01,Network MTU mismatch,10h,11/29/2025 15:20,11/30/2025 1:25
+SRV-FILE10,Power voltage irregularity,2d,11/30/2025 11:45,12/2/2025 13:50
+SRV-DB02,User rebooted test env,5h,12/1/2025 19:00,12/1/2025 0:05
+SRV-APP08,Maintenance security patch,8h,12/2/2025 22:20,12/3/2025 6:25
+SRV-MAIL05,ESXi unresponsive PXE,27h,12/3/2025 7:40,12/4/2025 10:45
+SRV-BACKUP11,Network ACL block,14h,12/4/2025 16:55,12/5/2025 6:00
+SRV-WEB09,Power rack overload,6h,12/5/2025 12:15,12/5/2025 18:20
+SRV-FILE04,User maintenance window,4h,12/6/2025 20:30,12/6/2025 0:35
+SRV-DB07,Scheduled downtime,11h,12/7/2025 3:50,12/7/2025 14:55
+SRV-APP03,ESXi down disk failure,35h,12/8/2025 10:10,12/9/2025 21:15
+SRV-MAIL05,Network duplex mismatch,9h,12/9/2025 17:25,12/10/2025 2:30
+SRV-BACKUP06,Power connector loose,18h,12/10/2025 8:45,12/11/2025 2:50
+SRV-WEB01,User rebooted prod server,2h,12/11/2025 14:00,12/11/2025 16:05
+SRV-FILE10,Maintenance config change,16h,12/12/2025 23:20,12/13/2025 15:25
+SRV-DB02,ESXi host lockup,42h,12/13/2025 4:40,12/14/2025 22:45
+SRV-APP08,Network spanning tree loop,7h,12/15/2025 11:00,12/15/2025 18:05
+SRV-MAIL05,Power UPS test failure,25h,12/16/2025 6:20,12/17/2025 7:25
+SRV-BACKUP11,User accidental reboot,3h,12/17/2025 13:35,12/17/2025 16:40
+SRV-WEB09,Planned maintenance,12h,12/18/2025 1:55,12/18/2025 13:00
+SRV-FILE04,ESXi down firmware bug,49h,12/19/2025 9:15,12/21/2025 10:20
+SRV-DB07,Network QoS policy error,5h,12/20/2025 15:30,12/20/2025 20:35
+SRV-APP03,Power breaker reset,1d,12/21/2025 2:50,12/22/2025 6:55
